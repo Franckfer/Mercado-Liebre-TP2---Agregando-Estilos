@@ -5,7 +5,11 @@
 <h2>Imagenes previas del desafio<h2>
 
 <p>Header responsive</p>
+<<<<<<< HEAD
 <img src="https://github.com/Franckfer/Mercado-Liebre-TP2-Agregando-Estilos/blob/master/public/images/img-preview-header.png">
+=======
+<img src="https://github.com/Franckfer/Mercado-Liebre-TP2---Agregando-Estilos/blob/master/public/images/img-preview-header.png">
+>>>>>>> c90b0b96ba52ff8e34d35b4657561690b83ff1ce
 
 <p>Footer responsive</p>
-<img src="https://github.com/Franckfer/Mercado-Liebre-TP2-Agregando-Estilos/blob/master/public/images/img-preview-footer.png">
+<img src="https://github.com/Franckfer/Mercado-Liebre-TP2---Agregando-Estilos/blob/master/public/images/img-preview-footer.png">
